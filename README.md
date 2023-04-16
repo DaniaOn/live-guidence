@@ -1,16 +1,19 @@
 # LiveGuidence - Book Search Engine
 
  - [Description](#description)
- - [Installation](#installation)
+ - [Sources](#sources)
  - [Tools](#tools)
  - [LICENSE](#license)
 
 ## Description
 
 As a web developer, I WANT to search for new books to read SO THAT I can keep a list of books to purchase
- 
-## Installation
-Pending MOCK Image, code: database annd install js, heroku  and Instalations 
+
+## Sources
+
+ - UTA-class material for week 21
+
+##
 
 ## Tools 
  - Apollo Server
